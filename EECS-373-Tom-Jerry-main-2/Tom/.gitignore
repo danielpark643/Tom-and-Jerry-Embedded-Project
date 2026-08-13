@@ -1,0 +1,18 @@
+# Build output
+Debug/
+Release/
+
+#IDE settings
+.settings/
+
+#Binary/compiled files
+*.o
+*.elf
+*.map
+*.list
+*.su
+*.cyclo
+*.d
+
+# macOS junk
+.DS_Store
