@@ -1,2 +1,13 @@
 .DS_Store
-.DS_Store
+.osx.project
+.settings/
+*.launch
+temp.*
+Debug/
+Release/
+*.elf
+*.hex
+*.bin
+*.o
+*.su
+*.d
